@@ -1,0 +1,10 @@
+---
+title: Kane
+layout: layout.html
+eleventyNavigation:
+    key: Kane
+---
+# {{ title }}
+IT IS I, ONE HALF OF THE BROTHERS OF DESTRUCTION, KANE. MY RED MASK SYMBOLIZES MY FAVOURITE COLOUR RED, A SUPER COOL COLOUR, PROBABLY THE BEST COLOUR IF YOU ASK ME MAN. WHEN MY MOM USED TO BUY ME COLOURING BOOKS I ONLY USED RED BECAUSE ITS NICE.
+
+![I AM KANE AAAAA](https://www.nicepng.com/png/detail/441-4415005_kane-png-kane-wwe-png.png)
